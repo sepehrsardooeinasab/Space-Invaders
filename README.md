@@ -6,17 +6,13 @@ You can use the following command to open the jar file.
 
 <pre>java --module-path ${PATH_JAVAFX_SDK}/lib --add-modules javafx.controls,javafx.fxml,javafx.swing -jar ${PATH_JAR_FILE}</pre>
 
-## Java and JavaFX version
-
-Java &nbsp; &nbsp; &nbsp; **11.0.6**
-
-JavaFX &nbsp; **11.0.2**
+Java version **11.0.6** and JavaFX version **11.0.2** was used.
 
 ## How to play
 
-[<kbd>&#8592;</kbd>, <kbd>&#8594;</kbd>] &nbsp; &nbsp; Move to left and right
+<kbd>&#8592;</kbd> &nbsp; <kbd>&#8594;</kbd> &nbsp; &nbsp; Move to left and right
 
-[<kbd>Space</kbd>] &nbsp; Fire
+<kbd>Space</kbd> &nbsp; Fire
 
 ## Stages
 
