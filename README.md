@@ -10,7 +10,7 @@ Java version **11.0.6** and JavaFX version **11.0.2** was used.
 
 ## How to play
 
-<kbd>&#8592;</kbd> &nbsp; <kbd>&#8594;</kbd> &nbsp; &nbsp; Move to left and right
+<kbd>&#8592; &nbsp; &#8594;</kbd> &nbsp; Move to left and right
 
 <kbd>Space</kbd> &nbsp; Fire
 
