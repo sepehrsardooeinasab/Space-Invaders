@@ -22,7 +22,7 @@ In this stage, you can create new profiles or delete older ones, also the time p
 <img src="GameplayPictures/SelectProfile.png">
 
 ### Choose difficulty
-In this stage, you can choose difficulty 😀. The health of enemies and also their shoot rate change depending on the difficulty you select. You get more points from killing enemies on harder difficulties which can help you get a higher score. 
+In this stage, you can choose difficulty 😀. The health of enemies and also their fire rate change depending on the difficulty you select. You get more points from killing enemies on harder difficulties which can help you get a higher score. 
 
 <img src="GameplayPictures/ChooseDifficulty.png">
 
@@ -34,9 +34,9 @@ Show "loading" for 3 seconds 😀.
 ### Gameplay
 A player starts with 3 hearts, and must kill all invaders to win. If the player loses all of their hearts or the invaders reach to player's spaceship, the player will lose.
 
-Multiple obstacles are implemented. They block your bullets, but they will break if they got shot 5 times.
+Multiple obstacles are implemented. They block your bullets, but they will break, if they got shot 5 times.
 
-A UFO - which is faster than the invaders and flies above them - is implemented, and gives a huge amount of points if got defeated.
+A UFO, which is faster than the invaders and flies above them, is implemented. It gives a huge amount of points if got defeated.
 
 On the right side of the screen, you can see the number of remaining hearts, the time you spend and your current score.
 
