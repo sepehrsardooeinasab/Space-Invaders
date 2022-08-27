@@ -2,9 +2,9 @@
 
 An implementation of Space Invaders using JavaFX library.
 
-A jar file is provided. You can use the following command to open the game.
+You can use the following command to open the jar file.
 
-<code>java --module-path {$PATH_TO_JAVAFX_SDK}/lib --add-modules javafx.controls,javafx.fxml,javafx.swing -jar {$PATH_TO_JAR_FILE}/SpaceInvaders.jar</code> 
+<pre>java --module-path ${PATH_TO_JAVAFX_SDK}/lib --add-modules javafx.controls,javafx.fxml,javafx.swing -jar ${PATH_TO_JAR_FILE}/SpaceInvaders.jar</pre>
 
 ## Java and JavaFX version
 
@@ -36,9 +36,9 @@ Show "loading" for 3 seconds 😀.
 <img src="GameplayPictures/LoadingScreen.png">
 
 ### Gameplay
-A player starts with 3 hearts and must kill all invaders in order to win. If the player loses all of their hearts or the invaders reach to player's spaceship, the player will lose.
+A player starts with 3 hearts and must kill all invaders to win. If the player loses all of their hearts or the invaders reach to player's spaceship, the player will lose.
 
-There are multiple obstacles that block your bullets, but they will break if they got shot 5 times.
+Multiple obstacles block your bullets, but they will break if they got shot 5 times.
 
 A UFO which is faster than invaders fly above the invaders and defeating it gives a huge amount of points.
 
