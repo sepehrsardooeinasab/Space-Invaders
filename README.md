@@ -4,22 +4,22 @@ An implementation of Space Invaders using JavaFX library.
 
 A jar file is provided. You can use the following command to open the game.
 
-<code>java --module-path {$PATH_TO_JAVAFX_SDK}\lib --add-modules javafx.controls,javafx.fxml,javafx.swing -jar {$PATH_TO_JAR_FILE}/SpaceInvaders.jar</code> 
+<code>java --module-path {$PATH_TO_JAVAFX_SDK}/lib --add-modules javafx.controls,javafx.fxml,javafx.swing -jar {$PATH_TO_JAR_FILE}/SpaceInvaders.jar</code> 
 
 ## Java and JavaFX version
-------------
+
 Java &nbsp; &nbsp; &nbsp; **11.0.6**
 
 JavaFX &nbsp; **11.0.2**
 
 ## How to play
-------------
+
 [<kbd>&#8592;</kbd>, <kbd>&#8594;</kbd>] &nbsp; &nbsp; Move to left and right
 
 [<kbd>Space</kbd>] &nbsp; Fire
 
 ## Stages
-------------
+
 ### Choose Profile
 In this stage, you can create new profiles or delete older ones, also the time players have spent on the game and their highest score is shown.
 
