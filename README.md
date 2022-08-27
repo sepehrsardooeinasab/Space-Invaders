@@ -6,7 +6,7 @@ You can use the following command to open the jar file.
 
 <pre>java --module-path ${PATH_JAVAFX_SDK}/lib --add-modules javafx.controls,javafx.fxml,javafx.swing -jar ${PATH_JAR_FILE}</pre>
 
-Java version **11.0.6** and JavaFX version **11.0.2** was used.
+Java version **11.0.6** and JavaFX version **11.0.2** is used.
 
 ## How to play
 
@@ -34,11 +34,11 @@ Show "loading" for 3 seconds 😀.
 ### Gameplay
 A player starts with 3 hearts, and must kill all invaders to win. If the player loses all of their hearts or the invaders reach to player's spaceship, the player will lose.
 
-Multiple obstacles block your bullets, but they will break if they got shot 5 times.
+Multiple obstacles are implemented. They block your bullets, but they will break if they got shot 5 times.
 
-A UFO that is faster than the invaders and flies above them, gives a huge amount of points if got defeated.
+A UFO - which is faster than the invaders and flies above them - is implemented, and gives a huge amount of points if got defeated.
 
-On the right side of the screen, you can see the number of remaining hearts, the time you spend, and your current score.
+On the right side of the screen, you can see the number of remaining hearts, the time you spend and your current score.
 
 <img src="GameplayPictures/GamePlay.png">
 
