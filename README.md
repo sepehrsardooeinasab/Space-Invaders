@@ -32,11 +32,11 @@ Show "loading" for 3 seconds 😀.
 <img src="GameplayPictures/LoadingScreen.png">
 
 ### Gameplay
-A player starts with 3 hearts and must kill all invaders to win. If the player loses all of their hearts or the invaders reach to player's spaceship, the player will lose.
+A player starts with 3 hearts, and must kill all invaders to win. If the player loses all of their hearts or the invaders reach to player's spaceship, the player will lose.
 
 Multiple obstacles block your bullets, but they will break if they got shot 5 times.
 
-A UFO that is faster than the invaders, and flies above them gives a huge amount of points if got defeated.
+A UFO that is faster than the invaders and flies above them, gives a huge amount of points if got defeated.
 
 On the right side of the screen, you can see the number of remaining hearts, the time you spend, and your current score.
 
