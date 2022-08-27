@@ -20,7 +20,7 @@ JavaFX &nbsp; **11.0.2**
 
 ## Stages
 
-### Choose Profile
+### Select Profile
 In this stage, you can create new profiles or delete older ones, also the time players have spent on the game and their highest score is shown.
 
 <img src="GameplayPictures/SelectProfile.png">
