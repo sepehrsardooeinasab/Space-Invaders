@@ -4,7 +4,7 @@ An implementation of Space Invaders using JavaFX library.
 
 You can use the following command to open the jar file.
 
-<pre>java --module-path ${PATH_TO_JAVAFX_SDK}/lib --add-modules javafx.controls,javafx.fxml,javafx.swing -jar ${PATH_TO_JAR_FILE}/SpaceInvaders.jar</pre>
+<pre>java --module-path ${PATH_JAVAFX_SDK}/lib --add-modules javafx.controls,javafx.fxml,javafx.swing -jar ${PATH_JAR_FILE}</pre>
 
 ## Java and JavaFX version
 
