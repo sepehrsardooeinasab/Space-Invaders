@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SpaceInvaders:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc5c918d-21f1-46b2-b1e0-e742d1e3b86b" name="Default Changelist" comment="V9" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="249WS2GctPf0whR0wfM4JTGoHkn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.17456648" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ir.ac.kntu.logic" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="codes" />
+      <recent name="" />
+      <recent name="ir.ac.kntu" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="codes.Main" />
+      <module name="SpaceInvaders" />
+      <option name="VM_PARAMETERS" value="--module-path $USER_HOME$/Documents/Javafx-sdk-11.0.2/lib --add-modules=javafx.controls " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc5c918d-21f1-46b2-b1e0-e742d1e3b86b" name="Default Changelist" comment="" />
+      <created>1643043281366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643043281366</updated>
+      <workItem from="1643043286261" duration="1846000" />
+      <workItem from="1643047436217" duration="182000" />
+      <workItem from="1643049119927" duration="435000" />
+      <workItem from="1643118594511" duration="7879000" />
+      <workItem from="1643213808083" duration="15087000" />
+      <workItem from="1643267191721" duration="5452000" />
+      <workItem from="1643287994081" duration="2682000" />
+      <workItem from="1643291707738" duration="1691000" />
+      <workItem from="1643295884427" duration="603000" />
+      <workItem from="1643300769599" duration="1888000" />
+      <workItem from="1643357883630" duration="12000" />
+      <workItem from="1643357943064" duration="13000" />
+      <workItem from="1643436594137" duration="5026000" />
+      <workItem from="1643457866636" duration="18361000" />
+      <workItem from="1643486118882" duration="16000" />
+      <workItem from="1643489521412" duration="20506000" />
+      <workItem from="1643510893406" duration="1102000" />
+      <workItem from="1643512133538" duration="14000" />
+      <workItem from="1643512193783" duration="16000" />
+      <workItem from="1643533756425" duration="109000" />
+      <workItem from="1643538123345" duration="151000" />
+      <workItem from="1643543721597" duration="2132000" />
+      <workItem from="1659962101464" duration="774000" />
+      <workItem from="1659962891934" duration="170000" />
+      <workItem from="1661501797678" duration="266000" />
+      <workItem from="1661506716652" duration="10000" />
+      <workItem from="1661506863668" duration="248000" />
+      <workItem from="1661507149912" duration="442000" />
+      <workItem from="1661507838454" duration="45000" />
+      <workItem from="1661508089853" duration="294000" />
+      <workItem from="1661508538142" duration="313000" />
+      <workItem from="1661508941609" duration="197000" />
+      <workItem from="1661509247222" duration="699000" />
+      <workItem from="1661510015715" duration="199000" />
+      <workItem from="1661510251423" duration="45000" />
+      <workItem from="1661517114008" duration="13483000" />
+      <workItem from="1661543318188" duration="1190000" />
+      <workItem from="1661597381659" duration="524000" />
+      <workItem from="1661598321030" duration="529000" />
+      <workItem from="1661598994285" duration="1020000" />
+      <workItem from="1661604133907" duration="547000" />
+    </task>
+    <task id="LOCAL-00001" summary="V1">
+      <created>1643469729057</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643469729058</updated>
+    </task>
+    <task id="LOCAL-00002" summary="V2">
+      <created>1643485742893</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643485742893</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix pom.xml">
+      <created>1643486130541</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1643486130541</updated>
+    </task>
+    <task id="LOCAL-00004" summary="V3">
+      <created>1643495330969</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643495330969</updated>
+    </task>
+    <task id="LOCAL-00005" summary="V4">
+      <created>1643502713066</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1643502713066</updated>
+    </task>
+    <task id="LOCAL-00006" summary="V5">
+      <created>1643503467717</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1643503467717</updated>
+    </task>
+    <task id="LOCAL-00007" summary="V6">
+      <created>1643508060364</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1643508060364</updated>
+    </task>
+    <task id="LOCAL-00008" summary="V7">
+      <created>1643510397255</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1643510397255</updated>
+    </task>
+    <task id="LOCAL-00009" summary="V8">
+      <created>1643512054949</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1643512054949</updated>
+    </task>
+    <task id="LOCAL-00010" summary="V9">
+      <created>1643512144354</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1643512144354</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="V1" />
+    <MESSAGE value="V2" />
+    <MESSAGE value="fix pom.xml" />
+    <MESSAGE value="V3" />
+    <MESSAGE value="V4" />
+    <MESSAGE value="V5" />
+    <MESSAGE value="V6" />
+    <MESSAGE value="V7" />
+    <MESSAGE value="V8" />
+    <MESSAGE value="V9" />
+    <option name="LAST_COMMIT_MESSAGE" value="V9" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
