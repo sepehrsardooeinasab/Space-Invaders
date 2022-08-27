@@ -40,7 +40,7 @@ A player starts with 3 hearts and must kill all invaders to win. If the player l
 
 Multiple obstacles block your bullets, but they will break if they got shot 5 times.
 
-A UFO which is faster than invaders fly above the invaders and defeating it gives a huge amount of points.
+A UFO that is faster than the invaders, and flies above them gives a huge amount of points if got defeated.
 
 On the right side of the screen, you can see the number of remaining hearts, the time you spend, and your current score.
 
