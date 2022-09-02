@@ -6,7 +6,7 @@ You can use the following command to open the jar file.
 
 <pre>java --module-path ${PATH_JAVAFX_SDK}/lib --add-modules javafx.controls,javafx.fxml,javafx.swing -jar ${PATH_JAR_FILE}</pre>
 
-Java version **11.0.6** and JavaFX version **11.0.2** is used.
+Java version **11.0.6** and JavaFX version **11.0.2** was used.
 
 ## How to play
 
@@ -19,17 +19,17 @@ Java version **11.0.6** and JavaFX version **11.0.2** is used.
 ### Select Profile
 In this stage, you can create new profiles or delete older ones, also the time players have spent on the game and their highest score is shown.
 
-<img src="GameplayPictures/SelectProfile.png">
+<img src="Images/SelectProfile.png">
 
 ### Choose difficulty
-In this stage, you can choose difficulty 😀. The health of enemies and also their fire rate change depending on the difficulty you select. You get more points from killing enemies on harder difficulties which can help you get a higher score. 
+In this stage, you can choose the difficulty of the game. The health of enemies and also their fire rate changes depending on the difficulty you select. You get more points from killing enemies on harder difficulties which can help you get a higher score. 
 
-<img src="GameplayPictures/ChooseDifficulty.png">
+<img src="Images/ChooseDifficulty.png">
 
 ### Loading Screen
 Show "loading" for 3 seconds 😀.
 
-<img src="GameplayPictures/LoadingScreen.png">
+<img src="Images/LoadingScreen.png">
 
 ### Gameplay
 A player starts with 3 hearts, and must kill all invaders to win. If the player loses all of their hearts or the invaders reach to player's spaceship, the player will lose.
@@ -40,9 +40,9 @@ A UFO, which is faster than the invaders and flies above them, is implemented. I
 
 On the right side of the screen, you can see the number of remaining hearts, the time you spend and your current score.
 
-<img src="GameplayPictures/GamePlay.png">
+<img src="Images/GamePlay.png">
 
 ### Win or lose
 Show you won or lost for 3 seconds. 😇
 
-<img src="GameplayPictures/WinOrLose.png">
+<img src="Images/WinOrLose.png">
