@@ -1,7 +1,5 @@
 # Space Invaders
 
-An implementation of Space Invaders using JavaFX library.
-
 You can use the following command to run the jar file.
 
 <pre>java --module-path ${PATH_JAVAFX_SDK}/lib --add-modules javafx.controls,javafx.fxml,javafx.swing -jar ${PATH_JAR_FILE}</pre>
@@ -17,12 +15,12 @@ Java version **11.0.6** and JavaFX version **11.0.2** was used.
 ## Stages
 
 ### Select Profile
-In this stage, you can create a new profile or delete an older one, also the time players have spent on the game and their highest score are shown.
+This stage allows you to create a new profile or delete an existing one, as well as see how much time players have spent playing the game and their highest score.
 
 <img src="Images/SelectProfile.png">
 
 ### Choose difficulty
-In this stage, you can choose the difficulty of the game. The health of enemies and also their fire rate changes depending on the difficulty you select. You get more points from killing enemies on harder difficulties which can help you get a higher score. 
+The difficulty of the game can be selected at this stage. The health of enemies and their fire rate change based on the difficulty you choose. Killing enemies on harder difficulties will earn you more points, allowing you to score higher.
 
 <img src="Images/ChooseDifficulty.png">
 
@@ -32,11 +30,11 @@ Show "loading" for 3 seconds 😀.
 <img src="Images/LoadingScreen.png">
 
 ### Gameplay
-A player starts with 3 hearts and must kill all invaders to win. If the player loses all of their hearts or the invaders reach to player's spaceship, the player will lose.
+Players start with three hearts and need to kill all invaders in order to win. The player loses if they lose all of their hearts or the invaders reach their spaceship.
 
-Multiple obstacles are implemented. They block your bullets but they will break if they got shot 5 times.
+We have implemented a number of obstacles. They will block your bullets, but will break if they are shot five times.
 
-A UFO, which is faster than the invaders and flies above them, is implemented. Defeating it gives a huge amount of points.
+A UFO, which is faster than the invaders and flies above them, have implemented too. Defeating it gives a lot of points.
 
 On the right side of the screen, you can see the number of remaining hearts, the time you spend and your current score.
 
